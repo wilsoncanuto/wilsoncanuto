@@ -7,7 +7,7 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=WilsonCanuto&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonCanuto&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
-<br>
+
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=WilsonCanuto&theme=gotham&hide_border=true&area=true)
 
