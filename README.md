@@ -1,13 +1,17 @@
-
+## Bem vindo, Sou Wilson !
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32cd32&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wilson+Canuto+Graciano;+Sou+da+Zona+leste+Mooca+Brasil,+SP;+G+Graduação+A+D+S+Universidade+das+Américas+Fam+Mooca;)](https://git.io/typing-svg)
 
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=WilsonCanuto&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonCanuto&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=WilsonCanuto&theme=gotham&hide_border=true&area=true)
 
 ### Skills:
-
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
