@@ -13,13 +13,13 @@
 <br/>
 
 <div id="header" align="center">
-<img src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif"  height="350" width="1000"/>
+<img src="https://cdn-images-1.medium.com/max/1600/1*3tbnS4Cb-1Bz1Nt866uGuA.gif"  height="350" width="1000"/>
 <div id="badges">
 
 </div>
 <hr>
 <br/>
-
+ 
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=WilsonCanuto&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonCanuto&layout=compact&langs_count=16&theme=great-gatsby"/>
 
@@ -67,7 +67,7 @@
 <br/>
 
 <div id="header" align="center">
-<img src="https://1.bp.blogspot.com/-dpor5ujpeXc/WlvC0IieDbI/AAAAAAAAAOw/ij4izysl3uEfeu2O8OyuIGGgU5IKcCZtwCLcBGAs/s1600/Webp.net-gifmaker.gif"  height="250" width="1000"/>
+<img src="https://img1.ibxk.com.br/2015/07/15/15105231448568.gif"  height="300" width="1000"/>
 <div id="badges">
 
 </div>
