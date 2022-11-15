@@ -66,6 +66,14 @@
 <hr>
 <br/>
 
+<div id="header" align="center">
+<img src="https://1.bp.blogspot.com/-dpor5ujpeXc/WlvC0IieDbI/AAAAAAAAAOw/ij4izysl3uEfeu2O8OyuIGGgU5IKcCZtwCLcBGAs/s1600/Webp.net-gifmaker.gif"  height="250" width="1000"/>
+<div id="badges">
+
+</div>
+<hr>
+<br/>
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{WilsonCanuto}/count.svg" /></p> 
