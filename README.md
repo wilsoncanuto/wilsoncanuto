@@ -2,6 +2,9 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32cd32&height=120&section=header"/>
+</div>
+<hr>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wilson+Canuto+Graciano;+Sou+da+Zona+leste+Mooca+Brasil,+SP;+G+Graduação+A+D+S+Universidade+das+Américas+Fam+Mooca;)](https://git.io/typing-svg)
 
@@ -10,7 +13,7 @@
 <br/>
 
 <div id="header" align="center">
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"  height="350" width="900"/>
+<img src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif"  height="350" width="1000"/>
 <div id="badges">
 
 </div>
