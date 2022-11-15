@@ -1,18 +1,38 @@
-## Bem vindo, Sou Wilson => [Portfolio](https://wilsoncanuto.github.io/Portf-Wilson-canuto/)  !!!
+## Bem vindo, Sou Wilson => [Portfolio](https://wilsoncanuto.github.io/Portf-Wilson-canuto/) !!!
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32cd32&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wilson+Canuto+Graciano;+Sou+da+Zona+leste+Mooca+Brasil,+SP;+G+Graduação+A+D+S+Universidade+das+Américas+Fam+Mooca;)](https://git.io/typing-svg)
 
-<div>
+</div>
+<hr>
+<br/>
+
+<div id="header" align="center">
+<img src="https://user-images.githubusercontent.com/11077068/200310941-57e6fae2-b5a4-4980-8c0c-e92938857088.gif"  width="1100"/>
+<div id="badges">
+
+</div>
+<hr>
+<br/>
+
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=WilsonCanuto&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonCanuto&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
 
+</div>
+<hr>
+<br/>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=WilsonCanuto&theme=gotham&hide_border=true&area=true)
 
-### Skills:
+  
+</div>
+<hr>
+<br/>
 
+### Skills:
+  
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -30,11 +50,18 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
+</div>
+<hr>
+<br/>
 
 ### Studying right now:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+</div>
+<hr>
+<br/>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
