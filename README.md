@@ -10,7 +10,7 @@
 <br/>
 
 <div id="header" align="center">
-<img src="https://user-images.githubusercontent.com/11077068/200310941-57e6fae2-b5a4-4980-8c0c-e92938857088.gif"  width="1100"/>
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"  height="350" width="900"/>
 <div id="badges">
 
 </div>
