@@ -1,6 +1,5 @@
 ## Bem vindo, Sou Wilson => [Portfolio](https://wilsoncanuto.github.io/Portf-Wilson-canuto/) !!!
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32cd32&height=120&section=header"/>
 </div>
 <hr>
@@ -20,8 +19,8 @@
 <hr>
 <br/>
  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=WilsonCanuto&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonCanuto&layout=compact&langs_count=16&theme=great-gatsby"/>
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=WilsonCanuto&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+<img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonCanuto&layout=compact&langs_count=16&theme=great-gatsby"/>
 
 </div>
 <hr>
@@ -29,7 +28,6 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=WilsonCanuto&theme=gotham&hide_border=true&area=true)
 
-  
 </div>
 <hr>
 <br/>
@@ -67,7 +65,7 @@
 <br/>
 
 <div id="header" align="center">
-<img src="https://img1.ibxk.com.br/2015/07/15/15105231448568.gif"  height="300" width="1000"/>
+<img src="https://i.pinimg.com/originals/96/ac/0d/96ac0d507e1855c117cfd489d903efa4.gif"  height="300" width="1000"/>
 <div id="badges">
 
 </div>
@@ -77,7 +75,8 @@
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{WilsonCanuto}/count.svg" /></p> 
-<br></div>
+<br>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32cd32&height=120&section=footer"/>
 
