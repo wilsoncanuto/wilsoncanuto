@@ -12,7 +12,7 @@
 <br/>
 
 <div id="header" align="center">
-<img src="https://gifimage.net/wp-content/uploads/2018/11/obs-animated-gif.gif"  height="150" width="100"/><img src="https://logos.flamingtext.com/Name-Logos/Wilson-design-power-name.gif"  height="150" width="600"/>
+<img src="https://gifimage.net/wp-content/uploads/2018/11/obs-animated-gif.gif"  height="150" width="250"/><img src="https://logos.flamingtext.com/Name-Logos/Wilson-design-power-name.gif"  height="150" width="600"/>
 <img src="https://cdn-images-1.medium.com/max/1600/1*3tbnS4Cb-1Bz1Nt866uGuA.gif"  height="350" width="1000"/>
 <div id="badges">
 
