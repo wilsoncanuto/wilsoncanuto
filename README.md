@@ -3,13 +3,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32cd32&height=120&section=header"/>
 </div>
 <hr>
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wilson+Canuto+Graciano;+Sou+da+Zona+leste+Mooca+Brasil,+SP;+G+Graduação+A+D+S+Universidade+das+Américas+Fam+Mooca;)](https://git.io/typing-svg)
 
 </div>
 <hr>
-<br/>
 
 <div id="header" align="center">
 <img src="https://www.bing.com/th/id/OGC.e71edbb7dd0718f1097e53d5b5c95d40?pid=1.7&rurl=https%3a%2f%2fteamominharazao.files.wordpress.com%2f2014%2f04%2fcoroa_x1.gif%3fw%3d269&ehk=NiSS%2bBTEqQnUheKEOk3tD0IlCSPhRG4M91seCSSDgqI%3d" height="150" width="150"/><img src="https://logos.flamingtext.com/Name-Logos/Wilson-design-power-name.gif"  height="150" width="600"/>
@@ -31,39 +29,55 @@
 
 </div>
 <hr>
-<br/>
 
 ### Skills:
+<hr>
+<div style="display: inline_block"> 
+<!--    <img src="https://img.icons8.com/dusk/64/undefined/html-5.png"/>
+  <img src="https://img.icons8.com/dusk/64/undefined/css3.png"/>
+  <img src="https://img.icons8.com/dusk/64/undefined/javascript-logo.png"/>
+  <img src="https://img.icons8.com/dusk/64/undefined/react.png"/> -->
   
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+  <img alt="html" width="65" src="https://media4.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e471s3tok2zr2vvvpqv07qhbiihutv824szdy56dx4v&rid=giphy.gif&ct=s"/>
+ 
+  <img alt="css" tittle="css" width="65" src="https://media2.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=790b7611d255f4e4463830af34cedd553551bff901d1b6df&rid=giphy.gif&ct=s"/>
+ 
+  <img alt="javascript" width="60" src="https://media0.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=ecf05e470mrhq9y4g5vvtqbxdvflrmxnjguihuxrvttgs47s&rid=giphy.gif&ct=s"/>
+ 
+  <img alt="react" width="60" src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e47ryp7nbxlj7zgcl6styotk9kkk13nvu7ggm1n3unq&rid=giphy.gif&ct=s"/>
+ 
+  <img alt="bootstrap" width="65" src="https://media4.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=790b76115547fd6f1b0c29af82b0f947a6a8f5b04d63e31c&rid=giphy.gif&ct=s"/>
+ 
+ <img alt="git" width="95" src="https://media1.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e47ko949hs5gkz9ylnsdr676wm6pf16fpnha58t4e0w&rid=giphy.gif&ct=s"/>
+  
+ <img alt="vs code" width="50" src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif?cid=ecf05e47fbpp4sngy0gdd5b85ynxcgs7fpw2yf4ynrnjyx3q&rid=giphy.gif&ct=s"/>
+ 
+ <img alt="mysql" height="50" width="50" src="https://media2.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif?cid=ecf05e47jbm1c3l21njzbwh7gu2ph0h9wewz8d2qnw4vyw94&rid=giphy.gif&ct=g"/>
+ 
+ <img alt="github" width="50" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47yl1ycyyb6vg70twn36qze7qvdrd1gnl1qljbwjnn&rid=giphy.gif&ct=g"/>
+ 
+ <img alt="python" height="50" width="55" src="https://media1.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47otw2lli9aqd28ahppi0sbpzf9cp548naduta6k6j&rid=giphy.gif&ct=g"/> 
+ 
+ <img alt="microsoft office" height="50" width="55" src="https://th.bing.com/th/id/R.ed7519a823a5da81464534ebf5272b4a?rik=kxoXMuF1Zt0VtA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-Uf7RNn_k6NY%2fV3iWh7SMGAI%2fAAAAAAAABNs%2feX97EHN_AgAWcRBi4898mf_W9OotyRrIACK4B%2fs1600%2fMicrosoft-Office.gif&ehk=jY7q%2fzNBn183vW58X007DyZtTui0bWBKgM8NtQosg8o%3d&risl=&pid=ImgRaw&r=0"/> 
+ 
+<img height="50" width="55"  src="https://media2.giphy.com/media/l2ECXx80AOmXK/giphy.gif?cid=ecf05e47ctpov6cvqido5kxx3ykwms4t85tnqxx08peul8wj&rid=giphy.gif&ct=g" />
 
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studiocode&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+<img alt="css" tittle="Java" height="50" width="55" src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif"/>
+ 
+</div>   
+<hr>
 
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-
-</div>
+### 💻 Studying right now: 💻 
 <hr>
 <br/>
 
-### 💻 Studying right now: 💻 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 </div>
 <hr>
-<br/>
+</div>
 
 <div id="header" align="center">
 <img src="https://th.bing.com/th/id/R.8d76cf35ef74be49dccde7c6ebee92c8?rik=k%2bCLnpQt2sR4Mw&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f08%2frobot-gif-6.gif&ehk=5M1Kkdt0Of1tJWoMx%2b19BkrUiBmMu6WrB5y4ypJ6fX4%3d&risl=&pid=ImgRaw&r=0"  height="300" width="100"/><img src="https://i.pinimg.com/originals/96/ac/0d/96ac0d507e1855c117cfd489d903efa4.gif"  height="300" width="600"/><img src="https://1.bp.blogspot.com/-EGxgf3P2c60/XuZe032k-HI/AAAAAAADEhE/5Y730uDY4Cs7-epjfyWFGI_bjJL62mDnwCLcBGAsYHQ/s1600/FLI25.gif"  height="300" width="100"/>
