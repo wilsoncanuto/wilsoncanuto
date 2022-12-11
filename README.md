@@ -23,12 +23,6 @@
 
 </div>
 <hr>
-<br/>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=WilsonCanuto&theme=gotham&hide_border=true&area=true)
-
-</div>
-<hr>
 
 ### Skills:
 <hr>
