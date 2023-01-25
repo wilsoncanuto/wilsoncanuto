@@ -18,7 +18,8 @@
 <hr>
 <br/>
  
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=WilsonCanuto&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+<img  height="180em" src="https://github-readme-stats.codestackr.versal.app
+/api?username=WilsonCanuto&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonCanuto&layout=compact&langs_count=16&theme=great-gatsby"/>
 
 </div>
@@ -34,30 +35,30 @@
   
  
  
- </a>
+ 
   <img alt="css" tittle="css" width="65" src="https://media2.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=790b7611d255f4e4463830af34cedd553551bff901d1b6df&rid=giphy.gif&ct=s"/>
- </a>
+ 
   <img alt="javascript" width="60" src="https://media0.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=ecf05e470mrhq9y4g5vvtqbxdvflrmxnjguihuxrvttgs47s&rid=giphy.gif&ct=s"/>
- </a>
+ 
   <img alt="react" width="60" src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e47ryp7nbxlj7zgcl6styotk9kkk13nvu7ggm1n3unq&rid=giphy.gif&ct=s"/>
- </a>
+ 
   <img alt="bootstrap" width="65" src="https://media4.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=790b76115547fd6f1b0c29af82b0f947a6a8f5b04d63e31c&rid=giphy.gif&ct=s"/>
- </a>
+ 
  <img alt="git" width="95" src="https://media1.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e47ko949hs5gkz9ylnsdr676wm6pf16fpnha58t4e0w&rid=giphy.gif&ct=s"/>
-  </a>
+  
  <img alt="vs code" width="50" src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif?cid=ecf05e47fbpp4sngy0gdd5b85ynxcgs7fpw2yf4ynrnjyx3q&rid=giphy.gif&ct=s"/>
- </a>
+ 
  <img alt="mysql" height="50" width="50" src="https://media2.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif?cid=ecf05e47jbm1c3l21njzbwh7gu2ph0h9wewz8d2qnw4vyw94&rid=giphy.gif&ct=g"/>
- </a>
+ 
  <img alt="github" width="50" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47yl1ycyyb6vg70twn36qze7qvdrd1gnl1qljbwjnn&rid=giphy.gif&ct=g"/>
- </a>
+ 
  <img alt="python" height="50" width="55" src="https://media1.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47otw2lli9aqd28ahppi0sbpzf9cp548naduta6k6j&rid=giphy.gif&ct=g"/> 
- </a>
+ 
 
 <img height="50" width="55"  src="https://media2.giphy.com/media/l2ECXx80AOmXK/giphy.gif?cid=ecf05e47ctpov6cvqido5kxx3ykwms4t85tnqxx08peul8wj&rid=giphy.gif&ct=g" />
-</a>
+
 <img alt="css" tittle="Java" height="50" width="55" src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif"/>
- </a>
+ 
 </div>   
 <hr>
 
