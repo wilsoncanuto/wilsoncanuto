@@ -32,6 +32,8 @@
   <img src="https://img.icons8.com/dusk/64/undefined/javascript-logo.png"/>
   <img src="https://img.icons8.com/dusk/64/undefined/react.png"/> -->
   
+ 
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
   <img alt="html" width="65" src="https://media4.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e471s3tok2zr2vvvpqv07qhbiihutv824szdy56dx4v&rid=giphy.gif&ct=s"/>
  
   <img alt="css" tittle="css" width="65" src="https://media2.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=790b7611d255f4e4463830af34cedd553551bff901d1b6df&rid=giphy.gif&ct=s"/>
