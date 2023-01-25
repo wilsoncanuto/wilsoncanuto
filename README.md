@@ -52,8 +52,7 @@
  
  <img alt="python" height="50" width="55" src="https://media1.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47otw2lli9aqd28ahppi0sbpzf9cp548naduta6k6j&rid=giphy.gif&ct=g"/> 
  
- <img alt="microsoft office" height="50" width="55" src="https://th.bing.com/th/id/R.ed7519a823a5da81464534ebf5272b4a?rik=kxoXMuF1Zt0VtA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-Uf7RNn_k6NY%2fV3iWh7SMGAI%2fAAAAAAAABNs%2feX97EHN_AgAWcRBi4898mf_W9OotyRrIACK4B%2fs1600%2fMicrosoft-Office.gif&ehk=jY7q%2fzNBn183vW58X007DyZtTui0bWBKgM8NtQosg8o%3d&risl=&pid=ImgRaw&r=0"/> 
- 
+
 <img height="50" width="55"  src="https://media2.giphy.com/media/l2ECXx80AOmXK/giphy.gif?cid=ecf05e47ctpov6cvqido5kxx3ykwms4t85tnqxx08peul8wj&rid=giphy.gif&ct=g" />
 
 <img alt="css" tittle="Java" height="50" width="55" src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif"/>
