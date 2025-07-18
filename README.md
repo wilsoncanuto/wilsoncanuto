@@ -61,7 +61,7 @@ Se você está buscando um profissional com criatividade, vontade de aprender e 
 📧 wilsoncanuto.dev@gmail.com  
 📎 [linkedin.com/in/wilsoncanuto](https://www.linkedin.com/in/wilson-canuto-graciano-29a31b105/)
 
-📁 Meu portfólio: [https://github.com/wilsoncanuto/portfolio-hud](https://github.com/wilsoncanuto/portfolio-hud)
+📁 Meu portfólio: [https://github.com/wilsoncanuto/portfolio-hud](https://wilsoncanuto.github.io/portfolio-2025-atualizacaoo./)
 
 ---
 
