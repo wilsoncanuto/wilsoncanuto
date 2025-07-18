@@ -66,7 +66,7 @@ Se você está buscando um profissional com criatividade, vontade de aprender e 
 ### 🌟 Meu Portfólio Visual
 
 <div align="center">
-  <a href="https://github.com/wilsoncanuto/portfolio-hud" target="_blank">
+  <a href="https://wilsoncanuto.github.io/portfolio-2025-atualizacaoo./" target="_blank">
     <img src="https://raw.githubusercontent.com/wilsoncanuto/portfolio-hud/main/preview.gif" alt="Portfólio Futurista" width="45%" />
   </a>
   <a href="https://github.com/wilsoncanuto/sistema-agendamento" target="_blank">
