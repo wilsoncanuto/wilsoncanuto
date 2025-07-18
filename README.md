@@ -63,4 +63,21 @@ Se você está buscando um profissional com criatividade, vontade de aprender e 
 
 ---
 
+### 🌟 Meu Portfólio Visual
+
+<div align="center">
+  <a href="https://github.com/wilsoncanuto/portfolio-hud" target="_blank">
+    <img src="https://raw.githubusercontent.com/wilsoncanuto/portfolio-hud/main/preview.gif" alt="Portfólio Futurista" width="45%" />
+  </a>
+  <a href="https://github.com/wilsoncanuto/sistema-agendamento" target="_blank">
+    <img src="https://raw.githubusercontent.com/wilsoncanuto/sistema-agendamento/main/preview.png" alt="Sistema Agendamento" width="45%" />
+  </a>
+  <br><br>
+  <a href="https://github.com/wilsoncanuto/web-scraping-ans" target="_blank">
+    <img src="https://raw.githubusercontent.com/wilsoncanuto/web-scraping-ans/main/exemplo.png" alt="Web Scraping ANS" width="45%" />
+  </a>
+</div>
+
+---
+
 <sub>⚙️ Este README foi gerado com ❤️ para tornar meu perfil mais profissional e acessível.</sub>
