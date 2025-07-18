@@ -59,7 +59,7 @@ Sou um desenvolvedor focado em **Front-End moderno e Python**, com experiência 
 Se você está buscando um profissional com criatividade, vontade de aprender e foco em entregar valor com tecnologia, me mande uma mensagem:
 
 📧 wilsoncanuto.dev@gmail.com  
-📎 [linkedin.com/in/wilsoncanuto](https://www.linkedin.com/in/wilsoncanuto)
+📎 [linkedin.com/in/wilsoncanuto](https://www.linkedin.com/in/wilson-canuto-graciano-29a31b105/)
 
 ---
 
