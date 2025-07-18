@@ -61,22 +61,7 @@ Se você está buscando um profissional com criatividade, vontade de aprender e 
 📧 wilsoncanuto.dev@gmail.com  
 📎 [linkedin.com/in/wilsoncanuto](https://www.linkedin.com/in/wilson-canuto-graciano-29a31b105/)
 
----
-
-### 🌟 Meu Portfólio Visual
-
-<div align="center">
-  <a href="https://wilsoncanuto.github.io/portfolio-2025-atualizacaoo./" target="_blank">
-    <img src="https://wilsoncanuto.github.io/portfolio-2025-atualizacaoo./" alt="Portfólio Futurista" width="45%" />
-  </a>
-  <a href="https://github.com/wilsoncanuto/sistema-agendamento" target="_blank">
-    <img src="https://raw.githubusercontent.com/wilsoncanuto/sistema-agendamento/main/preview.png" alt="Sistema Agendamento" width="45%" />
-  </a>
-  <br><br>
-  <a href="https://github.com/wilsoncanuto/web-scraping-ans" target="_blank">
-    <img src="https://raw.githubusercontent.com/wilsoncanuto/web-scraping-ans/main/exemplo.png" alt="Web Scraping ANS" width="45%" />
-  </a>
-</div>
+📁 Meu portfólio: [https://github.com/wilsoncanuto/portfolio-hud](https://github.com/wilsoncanuto/portfolio-hud)
 
 ---
 
