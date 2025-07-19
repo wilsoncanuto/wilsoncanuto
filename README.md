@@ -68,8 +68,8 @@ Tenho experiência prática em:
 Se você é recrutador(a), empresa ou parceiro em busca de um desenvolvedor comprometido com entrega de valor, fale comigo:
 
 📧 **E-mail:** wilsoncanuto.dev@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/wilsoncanuto](https://www.linkedin.com/in/wilsoncanuto)  
-🌐 **Portfólio online:** [wilsoncanuto.github.io/portfolio-2025-atualizacaoo](https://wilsoncanuto.github.io/portfolio-2025-atualizacaoo/)
+💼 **LinkedIn:** [linkedin.com/in/wilsoncanuto](https://www.linkedin.com/in/wilson-canuto-graciano-29a31b105/)  
+🌐 **Portfólio online:** [wilsoncanuto.github.io/portfolio-2025-atualizacaoo](https://wilsoncanuto.github.io/portfolio-2025-atualizacaoo./)
 
 ---
 
