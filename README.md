@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wilsoncanuto/portfolio-hud/main/assets/banner-wilsoncanuto-particles.png" alt="Banner com partículas - Wilson Canuto" width="100%" />
+</p>
+
 <h1 align="center">👋 Olá! Eu sou o Wilson Canuto</h1>
 
 <p align="center">
@@ -7,10 +11,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wilsoncanuto" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Wilson%20Canuto-blue?logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Wilson%20Canuto-blue?logo=linkedin" />
   </a>
   <a href="mailto:wilsoncanuto.dev@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-Enviar%20mensagem-green?logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/E--mail-Enviar%20mensagem-green?logo=gmail" />
+  </a>
+  <a href="https://wilsoncanuto.github.io/portfolio-2025-atualizacaoo/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Ver%20Portfólio-Interativo%20com%20Partículas-blueviolet" />
   </a>
 </p>
 
@@ -29,9 +36,9 @@ Sou um desenvolvedor focado em **Front-End moderno e Python**, com experiência 
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vuejs,python,fastapi,sqlite,git,github,vscode" />
-</div>
+</p>
 
 ---
 
@@ -47,10 +54,10 @@ Sou um desenvolvedor focado em **Front-End moderno e Python**, com experiência 
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wilsoncanuto&show_icons=true&theme=dracula" alt="Wilson GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsoncanuto&layout=compact&langs_count=6&theme=dracula" alt="Top Langs" height="150"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wilsoncanuto&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsoncanuto&layout=compact&langs_count=6&theme=dracula" height="150"/>
+</p>
 
 ---
 
@@ -58,11 +65,10 @@ Sou um desenvolvedor focado em **Front-End moderno e Python**, com experiência 
 
 Se você está buscando um profissional com criatividade, vontade de aprender e foco em entregar valor com tecnologia, me mande uma mensagem:
 
-📧 wilsoncanuto.dev@gmail.com  
-📎 [linkedin.com/in/wilsoncanuto](https://www.linkedin.com/in/wilson-canuto-graciano-29a31b105/)
-
-📁 Meu portfólio: [https://github.com/wilsoncanuto/portfolio-hud](https://wilsoncanuto.github.io/portfolio-2025-atualizacaoo./)
+📧 **wilsoncanuto.dev@gmail.com**  
+📎 [linkedin.com/in/wilsoncanuto](https://www.linkedin.com/in/wilsoncanuto)  
+📁 [Portfólio com partículas animadas](https://wilsoncanuto.github.io/portfolio-2025-atualizacaoo/)
 
 ---
 
-<sub>⚙️ Este README foi gerado com ❤️ para tornar meu perfil mais profissional e acessível.</sub>
+<sub>⚙️ Este README foi gerado com ❤️ para tornar meu perfil mais profissional, visualmente atrativo e acessível.</sub>
