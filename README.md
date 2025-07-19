@@ -1,21 +1,20 @@
 <p align="center">
-  <img src="<img width="1024" height="1024" alt="banner-wilsoncanuto-particles png" src="https://github.com/user-attachments/assets/4d9d50bc-c60e-4a2e-b05d-7b082adf86cb" />
-" alt="Banner com partículas - Wilson Canuto" width="100%" />
+  <img src="https://raw.githubusercontent.com/wilsoncanuto/portfolio-hud/main/assets/banner-wilsoncanuto-particles.png" alt="Banner Partículas - Wilson Canuto" width="100%" />
 </p>
 
 <h1 align="center">👋 Olá! Eu sou o Wilson Canuto</h1>
 
 <p align="center">
   <b>Desenvolvedor Front-End | Python | Web Scraping | APIs</b> <br />
-  <i>Transformando ideias em soluções funcionais e visuais</i>
+  <i>Transformando ideias em soluções funcionais, modernas e escaláveis</i>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wilsoncanuto" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Wilson%20Canuto-blue?logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin" />
   </a>
   <a href="mailto:wilsoncanuto.dev@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-Enviar%20mensagem-green?logo=gmail" />
+    <img src="https://img.shields.io/badge/E--mail-Contato-green?logo=gmail" />
   </a>
   <a href="https://wilsoncanuto.github.io/portfolio-2025-atualizacaoo/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Ver%20Portfólio-Interativo%20com%20Partículas-blueviolet" />
@@ -24,36 +23,38 @@
 
 ---
 
-### 🚀 Sobre mim
+### 🧠 Quem sou eu
 
-Sou um desenvolvedor focado em **Front-End moderno e Python**, com experiência em:
+Sou um desenvolvedor apaixonado por tecnologia, com foco em **interfaces modernas**, **automação inteligente com Python** e **desenvolvimento web full-stack**. 
 
-- Criação de interfaces profissionais com **HTML, CSS, JavaScript e frameworks como Vue.js e React**
-- Desenvolvimento de APIs com **FastAPI** e integração com front-ends
-- Projetos de **web scraping em Python**, extraindo e organizando dados de sites de forma automatizada
-- Experiência prática com **sistemas web completos**, incluindo páginas com login, agendamento e painel administrativo
+Tenho experiência prática em:
+
+- 🔷 Interfaces responsivas com **HTML, CSS, JavaScript, Vue.js e React**
+- ⚙️ Desenvolvimento de APIs com **FastAPI**
+- 🔍 Automação de dados via **Web Scraping com Python**
+- 💡 Criação de sistemas completos com **login, painel admin, agendamentos, e exportação para Excel**
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🚀 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vuejs,python,fastapi,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vuejs,bootstrap,python,fastapi,sqlite,git,github,vscode" />
 </p>
 
 ---
 
-### 📌 Projetos em destaque
+### 📌 Projetos em Destaque
 
 | Projeto | Descrição |
 |--------|-----------|
-| [🔎 Web Scraping ANS](https://github.com/wilsoncanuto/web-scraping-ans) | Script em Python para baixar arquivos CSV e ZIP da ANS automaticamente |
-| [🧬 API FastAPI + Vue](https://github.com/wilsoncanuto/sistema-agendamento) | Sistema com frontend em Vue e backend em FastAPI com agendamentos |
-| [🌐 Portfólio Futurista](https://github.com/wilsoncanuto/portfolio-hud) | Portfólio com interface interativa tipo HUD sci-fi |
+| [🔎 Web Scraping ANS](https://github.com/wilsoncanuto/web-scraping-ans) | Automatiza o download de arquivos CSV/ZIP da ANS com Python |
+| [🧬 API FastAPI + Vue](https://github.com/wilsoncanuto/sistema-agendamento) | Sistema web completo: API + Frontend com login e agendamento |
+| [🌐 Portfólio Futurista](https://github.com/wilsoncanuto/portfolio-hud) | Portfólio com interface sci-fi tipo HUD e partículas animadas |
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wilsoncanuto&show_icons=true&theme=dracula" height="150" />
@@ -62,14 +63,14 @@ Sou um desenvolvedor focado em **Front-End moderno e Python**, com experiência 
 
 ---
 
-### 💬 Vamos conversar?
+### 💬 Contato
 
-Se você está buscando um profissional com criatividade, vontade de aprender e foco em entregar valor com tecnologia, me mande uma mensagem:
+Se você é recrutador(a), empresa ou parceiro em busca de um desenvolvedor comprometido com entrega de valor, fale comigo:
 
-📧 **wilsoncanuto.dev@gmail.com**  
-📎 [linkedin.com/in/wilsoncanuto](https://www.linkedin.com/in/wilsoncanuto)  
-📁 [Portfólio com partículas animadas](https://wilsoncanuto.github.io/portfolio-2025-atualizacaoo/)
+📧 **E-mail:** wilsoncanuto.dev@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/wilsoncanuto](https://www.linkedin.com/in/wilsoncanuto)  
+🌐 **Portfólio online:** [wilsoncanuto.github.io/portfolio-2025-atualizacaoo](https://wilsoncanuto.github.io/portfolio-2025-atualizacaoo/)
 
 ---
 
-<sub>⚙️ Este README foi gerado com ❤️ para tornar meu perfil mais profissional, visualmente atrativo e acessível.</sub>
+<sub>⚙️ README criado com atenção aos detalhes para destacar minhas habilidades de forma moderna e objetiva.</sub>
