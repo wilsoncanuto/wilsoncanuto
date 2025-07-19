@@ -16,7 +16,7 @@
   <a href="mailto:wilsoncanuto.dev@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-Contato-green?logo=gmail" />
   </a>
-  <a href="https://wilsoncanuto.github.io/portfolio-2025-atualizacaoo/" target="_blank">
+  <a href="https://wilsoncanuto.github.io/portfolio-2025-atualizacaoo./" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Ver%20Portfólio-Interativo%20com%20Partículas-blueviolet" />
   </a>
 </p>
