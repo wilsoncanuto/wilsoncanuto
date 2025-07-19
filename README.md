@@ -55,6 +55,36 @@ Tenho experiência prática em:
 
 
 
+
+---
+
+### 🎨 Galeria de Projetos Interativos
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://wilsoncanuto.github.io/IP-Scape-clone/" target="_blank">
+        <img src="assets/ipscape-thumb.png" alt="IP Scape Clone" width="250"/><br />
+        <b>🚀 IP Scape - Clone Profissional</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wilsoncanuto.github.io/clone-totvs-25/" target="_blank">
+        <img src="assets/totvs-thumb.png" alt="Clone TOTVS" width="250"/><br />
+        <b>🧱 Clone TOTVS 2025</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wilsoncanuto.github.io/clone-linx/" target="_blank">
+        <img src="assets/linx-thumb.png" alt="Clone Linx" width="250"/><br />
+        <b>🧾 Clone Linx Interativo</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 ---
 
 ### 📈 Estatísticas do GitHub
