@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wilsoncanuto/portfolio-hud/main/assets/banner-wilsoncanuto-particles.png" alt="Banner com partículas - Wilson Canuto" width="100%" />
+  <img src="<img width="1024" height="1024" alt="banner-wilsoncanuto-particles png" src="https://github.com/user-attachments/assets/4d9d50bc-c60e-4a2e-b05d-7b082adf86cb" />
+" alt="Banner com partículas - Wilson Canuto" width="100%" />
 </p>
 
 <h1 align="center">👋 Olá! Eu sou o Wilson Canuto</h1>
