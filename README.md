@@ -44,13 +44,16 @@ Tenho experiência prática em:
 
 ---
 
+
 ### 📌 Projetos em Destaque
 
 | Projeto | Descrição |
 |--------|-----------|
-| [🔎 Web Scraping ANS](https://github.com/wilsoncanuto/web-scraping-ans) | Automatiza o download de arquivos CSV/ZIP da ANS com Python |
-| [🧬 API FastAPI + Vue](https://github.com/wilsoncanuto/sistema-agendamento) | Sistema web completo: API + Frontend com login e agendamento |
-| [🌐 Portfólio Futurista](https://github.com/wilsoncanuto/portfolio-hud) | Portfólio com interface sci-fi tipo HUD e partículas animadas |
+| [🚀 IP Scape - Clone Profissional](https://wilsoncanuto.github.io/IP-Scape-clone/) | Site moderno com partículas animadas, planos de internet e layout responsivo |
+| [🧱 Clone TOTVS 2025](https://wilsoncanuto.github.io/clone-totvs-25/) | Interface empresarial inspirada na TOTVS com design corporativo e navegação dinâmica |
+| [🧾 Clone Linx Interativo](https://wilsoncanuto.github.io/clone-linx/) | Projeto com visual profissional de sistema ERP baseado no site da Linx |
+
+
 
 ---
 
